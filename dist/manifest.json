@@ -1,0 +1,16 @@
+{
+  "name": "Ridträning – 4-veckorsplan för ryttare & häst",
+  "short_name": "Ridträning",
+  "description": "Planera, träna och utvecklas tillsammans med din häst genom strukturerade 4-veckorscykler.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F5F0",
+  "theme_color": "#263428",
+  "icons": [
+    {
+      "src": "/horse-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
